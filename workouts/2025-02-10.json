@@ -1,0 +1,66 @@
+{
+    "barbell-shoulder-press": {
+        "sets": [
+            {
+                "reps": 8,
+                "weight": 40
+            },
+            {
+                "reps": 9,
+                "weight": 40
+            },
+            {
+                "reps": 8,
+                "weight": 40
+            }
+        ]
+    },
+    "skullfuckers": {
+        "sets": [
+            {
+                "reps": 11,
+                "weight": 10
+            },
+            {
+                "reps": 10,
+                "weight": 10
+            },
+            {
+                "reps": 8,
+                "weight": 10
+            }
+        ]
+    },
+    "dumbbell-shoulder-press": {
+        "sets": [
+            {
+                "reps": 8,
+                "weight": 16
+            },
+            {
+                "reps": 8,
+                "weight": 16
+            },
+            {
+                "reps": 8,
+                "weight": 16
+            }
+        ]
+    },
+    "seated-dip": {
+        "sets": [
+            {
+                "reps": 5,
+                "weight": 91
+            },
+            {
+                "reps": 8,
+                "weight": 77
+            },
+            {
+                "reps": 5,
+                "weight": 77
+            }
+        ]
+    }
+}
