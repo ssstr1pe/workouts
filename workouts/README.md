@@ -11,9 +11,9 @@ And the format of the json file should be:
         "sets": [
             {
                 "reps": 12,
-                "weight": 25,
-            },
-        ],
+                "weight": 25
+            }
+        ]
     }
 }
 ```
