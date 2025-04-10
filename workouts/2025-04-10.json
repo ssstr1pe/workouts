@@ -1,0 +1,98 @@
+{
+    "lat-pulldown": {
+        "sets": [
+            {
+                "reps": 9,
+                "weight": 79
+            },
+            {
+                "reps": 9,
+                "weight": 79
+            },
+            {
+                "reps": 9,
+                "weight": 40
+            }
+        ]
+    },
+    "bicep-curls-neutral": {
+        "sets": [
+            {
+                "reps": 7,
+                "weight": 16
+            },
+            {
+                "reps": 6.5,
+                "weight": 16
+            },
+            {
+                "reps": 7,
+                "weight": 16
+            }
+        ]
+    },
+    "lat-row-plates": {
+        "sets": [
+            {
+                "reps": 7,
+                "weight": 80
+            },
+            {
+                "reps": 7,
+                "weight": 80
+            },
+            {
+                "reps": 6,
+                "weight": 80
+            }
+        ]
+    },
+    "arm-curl": {
+        "sets": [
+            {
+                "reps": 8,
+                "weight": 50
+            },
+            {
+                "reps": 5,
+                "weight": 50
+            },
+            {
+                "reps": 5,
+                "weight": 50
+            }
+        ]
+    },
+    "rear-delt": {
+        "sets": [
+            {
+                "reps": 12,
+                "weight": 52
+            },
+            {
+                "reps": 8,
+                "weight": 66
+            },
+            {
+                "reps": 8,
+                "weight": 66
+            }
+        ]
+    },
+    "deadlift": {
+        "sets": [
+            {
+                "reps": 10,
+                "weight": 50
+            },
+            {
+                "reps": 8,
+                "weight": 60
+            },
+            {
+                "reps": 6,
+                "weight": 50
+            }
+        ]
+    }
+}
